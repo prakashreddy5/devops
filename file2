@@ -1,0 +1,14 @@
+git commands
+ git clone url
+ls
+cd repositoryname
+touch filename
+git status
+git add filename
+git commit -m "label" filename
+git push
+git config --global user.name "   "
+git config --global user.email "  "
+git log 
+git show id 
+git add *
